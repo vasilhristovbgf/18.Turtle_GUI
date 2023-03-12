@@ -1,6 +1,6 @@
 import turtle
 
-#task 1: Draw a Square
+#task 1: Draw a Square...
 
 tim = turtle.Turtle()
 
