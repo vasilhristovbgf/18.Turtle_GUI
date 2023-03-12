@@ -12,6 +12,7 @@ tim = turtle.Turtle()
 # turtle.exitonclick()
 
 tim.pensize(5)
+#Task 2: Shapes
 sides = 11
 while sides >= 3:
     tim.pencolor(randint(1, 255),
